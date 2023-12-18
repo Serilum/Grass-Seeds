@@ -1,14 +1,14 @@
 modLoader="javafml"
 loaderVersion="*"
 license="All rights reserved"
-issueTrackerURL="https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Grass%20Seeds"
+issueTrackerURL="https://github.com/Serilum/.issue-tracker/labels/Mod:%20Grass%20Seeds"
 logoFile="icon.png"
 
 [[mods]]
 modId="grassseeds"
-version="3.1"
+version="3.2"
 displayName="Grass Seeds"
-displayURL="https://curseforge.com/minecraft/mc-mods/grass-seeds"
+displayURL="https://serilum.com/mod/grass-seeds"
 authors="Rick South"
 description='''Allows the use of wheat seeds to transform dirt blocks to grass blocks and to create (tall) grass on them.
 '''
@@ -21,13 +21,15 @@ If you would like to contribute too, check out https://ricksouth.com/donate. App
 
 [[dependencies.grassseeds]]
     modId="collective"
+    type="required"
     mandatory=true
-    versionRange="[7.3,)"
+    versionRange="[7.21,)"
     ordering="NONE"
     side="BOTH"
 
 [[dependencies.grassseeds]]
     modId="minecraft"
+    type="required"
     mandatory=true
     versionRange="[1.20.1]"
     ordering="NONE"
