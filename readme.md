@@ -12,11 +12,11 @@
 <p style="text-align:center"><a href="https://curseforge.com/members/serilum/projects" target="_blank" rel="nofollow"><img src="https://workflow.serilum.com/badges/svg/curseforge.svg" width="200"></a> <a href="https://modrinth.com/user/Serilum" target="_blank" rel="nofollow"><img src="https://workflow.serilum.com/badges/svg/modrinth.svg" width="200"></a> <a href="https://patreon.com/serilum" target="_blank" rel="nofollow"><img src="https://workflow.serilum.com/badges/svg/patreon.svg" width="200"></a> <a href="https://youtube.com/@serilum" target="_blank" rel="nofollow"><img src="https://workflow.serilum.com/badges/svg/youtube.svg" width="200"></a></p>
 <p><strong><span style="font-size:24px">Requires the library mod&nbsp;<a style="font-size:24px" href="https://curseforge.com/minecraft/mc-mods/collective" target="_blank" rel="nofollow">Collective</a>.</span></strong><br><br><strong>&nbsp;&nbsp;&nbsp;This mod is part of <span style="color:#008000"><a style="color:#008000" href="https://curseforge.com/minecraft/modpacks/the-vanilla-experience" target="_blank" rel="nofollow">The Vanilla Experience</a></span> modpack and <span style="color:#804d4f"><a style="color:#804d4f" href="https://curseforge.com/minecraft/mc-mods/serilums-extra-bundle" target="_blank" rel="nofollow">Serilum's Extra Bundle</a></span> mod.</strong><br><span style="font-size:18px">Grass Seeds is a minimalistic mod which allows players to use normal seeds to transform dirt into grass by right clicking a dirt block,&nbsp;and the ability to place tall grass by right-clicking a grass block.</span><br><br></p>
 <p><strong>It's as easy as this:</strong></p>
-<div class="spoiler">
+<details><summary>Show Spoiler</summary>
 <p><picture><img src="https://cdn.serilum.com/projects/grass-seeds/a.webp" alt="function" width="848" height="472"></picture></p>
-</div>
+</details>
 <p><br><strong>Version 1.1 allows players to also seed grass and tall grass:<br></strong></p>
-<div class="spoiler">
+<details><summary>Show Spoiler</summary>
 <p><picture><img src="https://cdn.serilum.com/projects/grass-seeds/b.webp" width="844" height="474"></picture></p>
-</div>
+</details>
 <p><br>------------------<br><br><span style="font-size:24px"><strong>You may freely use this mod in any modpack, as long as the download remains hosted within the CurseForge or Modrinth ecosystem.</strong></span><br><br><span style="font-size:18px"><a style="font-size:18px;color:#008000" href="https://serilum.com/" rel="nofollow">Serilum.com</a> contains an overview and more information on all mods available.</span><br><br><span style="font-size:14px">Comments are disabled as I'm unable to keep track of all the separate pages on each mod.</span><span style="font-size:14px"><br>For issues, ideas, suggestions or anything else there is the&nbsp;<a style="font-size:14px;color:#008000" href="https://github.com/Serilum/.issue-tracker" rel="nofollow">Github repo</a>. Thanks!</span><span style="font-size:6px"><br><br></span></p>
