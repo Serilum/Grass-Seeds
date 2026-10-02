@@ -1,10 +1,10 @@
-package com.natamus.grassseeds;
+package com.serilum.grassseeds;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.collective.fabric.callbacks.CollectiveBlockEvents;
-import com.natamus.grassseeds.events.GrassEvent;
-import com.natamus.grassseeds.util.Reference;
+import com.serilum.grassseeds.events.GrassEvent;
+import com.serilum.grassseeds.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.InteractionHand;
