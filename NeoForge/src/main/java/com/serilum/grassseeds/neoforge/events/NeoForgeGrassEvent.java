@@ -1,6 +1,6 @@
-package com.natamus.grassseeds.neoforge.events;
+package com.serilum.grassseeds.neoforge.events;
 
-import com.natamus.grassseeds.events.GrassEvent;
+import com.serilum.grassseeds.events.GrassEvent;
 import net.neoforged.neoforge.event.entity.player.PlayerInteractEvent;
 import net.neoforged.bus.api.SubscribeEvent;
 
