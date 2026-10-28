@@ -1,4 +1,4 @@
-package com.natamus.grassseeds.events;
+package com.serilum.grassseeds.events;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.InteractionHand;

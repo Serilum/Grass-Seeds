@@ -1,6 +1,6 @@
-package com.natamus.grassseeds.forge.events;
+package com.serilum.grassseeds.forge.events;
 
-import com.natamus.grassseeds.events.GrassEvent;
+import com.serilum.grassseeds.events.GrassEvent;
 import net.minecraftforge.event.entity.player.PlayerInteractEvent;
 import net.minecraftforge.eventbus.api.bus.BusGroup;
 import net.minecraftforge.eventbus.api.listener.SubscribeEvent;

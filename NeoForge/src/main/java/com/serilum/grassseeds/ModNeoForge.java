@@ -1,9 +1,9 @@
-package com.natamus.grassseeds;
+package com.serilum.grassseeds;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.grassseeds.neoforge.events.NeoForgeGrassEvent;
-import com.natamus.grassseeds.util.Reference;
+import com.serilum.grassseeds.neoforge.events.NeoForgeGrassEvent;
+import com.serilum.grassseeds.util.Reference;
 import net.neoforged.neoforge.common.NeoForge;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
